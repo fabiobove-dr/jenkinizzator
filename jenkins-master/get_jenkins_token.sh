@@ -1,0 +1,1 @@
+docker cp jenkins:/var/jenkins_home/secrets/initialAdminPassword ./initialAdminPassword
